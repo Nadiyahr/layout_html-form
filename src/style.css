@@ -1,12 +1,9 @@
 /* styles go here */
-body {
-  margin: 0;
-}
 
-.inputs {
-  margin-top: 10px;
+.inputs:not(:last-of-type) {
+  margin-bottom: 10px;
 }
 
 .fieldset {
-  margin: 20px;
+  margin-bottom: 20px;
 }
